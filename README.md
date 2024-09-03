@@ -1,9 +1,10 @@
 # MuscleMap
-*** 
 
 ## NOTE: This project is a work in progress. Contributions are welcome.
 
 **MuscleMap** is a comprehensive fitness app designed to help you discover and track exercises targeting every muscle group. Whether you're a beginner or a pro, MuscleMap provides detailed workout options with varying difficulty levels to meet your fitness goals.
+
+![ER Design](backend/docs/architecture-diagrams/musclemap-er-diagram.png)
 
 ## Features
 
